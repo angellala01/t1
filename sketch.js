@@ -46,7 +46,6 @@ function draw()
 {
 	image(img,0,0);
 
-	//Write your code below here ...
-
-
+	// 绘制矩形框住穿红色连衣裙的Lina（坐标需根据实际图片调整）
+	rect(300, 150, 160, 350);
 }
